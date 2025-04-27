@@ -11,6 +11,7 @@
 - [SauceLabs Demo](https://www.saucedemo.com/v1/)
 - [Open Source OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 - [Open Cart - Naveen Automation Labs](https://naveenautomationlabs.com/opencart/)
+- [UiBank](https://uibank.uipath.com/welcome)
 
 
 

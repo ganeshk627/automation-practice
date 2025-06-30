@@ -13,6 +13,7 @@
 - [Open Cart - Naveen Automation Labs](https://naveenautomationlabs.com/opencart/)
 - [UiBank](https://uibank.uipath.com/welcome)
 - [RPA Challenge](https://rpachallenge.com/)
+- [DemoQA](http://demoqa.com/)
 
 
 

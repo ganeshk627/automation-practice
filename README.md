@@ -3,6 +3,7 @@
 # Locator Practice
 - [SelectorsHub Practice Page](https://selectorshub.com/xpath-practice-page/)
 - [Heroku app](https://the-internet.herokuapp.com/)
+- https://formy-project.herokuapp.com/
 
 
 # WEB
@@ -14,6 +15,7 @@
 - [UiBank](https://uibank.uipath.com/welcome)
 - [RPA Challenge](https://rpachallenge.com/)
 - [DemoQA](http://demoqa.com/)
+- 
 
 
 

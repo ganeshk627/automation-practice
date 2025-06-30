@@ -15,7 +15,7 @@
 - [UiBank](https://uibank.uipath.com/welcome)
 - [RPA Challenge](https://rpachallenge.com/)
 - [DemoQA](http://demoqa.com/)
-- 
+- [Demo Blaze](https://www.demoblaze.com/)
 
 
 
